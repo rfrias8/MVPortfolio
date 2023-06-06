@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  /* background-color: rgb(255, 255, 255); */
+}
+
+::placeholder {
+  color: black;
+}
+
+
+/* Card */
+.indiv-card {
+  transition: all 0.5s ease;
+}
+
+.indiv-card:hover {
+  transform: scale(1.05);
+  box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+}
+
+footer {
+  background-color: rgb(220, 121, 103);
+  text-align: center;
+  padding: 1rem 0;
+  margin-top: 5rem;
+  color: white;
+}
