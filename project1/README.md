@@ -4,7 +4,7 @@ Give a high-level overview of the project purpose
 - This application was designed so that we could retrieve the product in our warehouse that we wanted to sell and show it to our cusotmers in a more appealing way with images and the ability to add items to our cart and checkout once they are ready to pay.
 - In order to create this application we used React to create components such as the cart, form, Nav bar, single item view, etc. This allowed us to separate all the working parts of the application to view specific items when we clicked on them and add them to the cart if the customer wants to purchase the item.
 - (*Result*) Showcase your final application with its functionality
-- <img src="images\inventoryWireframe.png" alt="Inventory App wireframe" />
+- ![Alt text](../images/inventoryWireframe.png "Optional title")
 
 ## Technologies
 - JavaScript
