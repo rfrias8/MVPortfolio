@@ -3,7 +3,7 @@ Give a high-level overview of the project purpose
 - This application is a mobil app that shows you moveis anf Tv shows as well as allows you to add the ones you would like to your favorites list to keep them handy for when you would like to watch them.
 - We decided to create a Netflix App clone that worked on mobile devices using React Native. In order to make this happen first, my parter Giovanni Lituma (giovannixdev) and I needed to learn React Native to create the front end. We then Partnered with Edgard Gamoboa(maestrogamboa) as well to add the backend.
 - In order to produce the application we wanted I helped by creating the front end of half of the items on the home screen, the tv shows screen, as well as helping create the routes and functionality to connect the backend and add favorite movies to a customer's favorites list. 
-- Include relevant screenshots
+![Alt text](../images/Opencine-screenshot.png "Opencine screenshot")
 
 ## Technologies
 - Express 4.17.1
