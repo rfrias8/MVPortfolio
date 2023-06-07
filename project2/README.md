@@ -1,15 +1,13 @@
 ## Project #2
-Give a high-level overview of the project purpose
-- (*Situation*) Describe the application and why you created this program
-- (*Task*) Describe the overall structure of your application and the design process prior to building the program
-- (*Action*) Explain the code you wrote to achieve your desired result
-- (*Result*) Showcase your final application with its functionality
-- Include relevant screenshots
+The purpose of this application was to put together a fun game written in a different language from what we learned in our bootcamp. 
+- I created this application because I wanted to learn Swift language since it's what I would be using in my job at Verizon and I thought a fun first project would be a game. 
+- I decided to create a matching card game that would work on mobile devices. Once a player flipped cards that were matching then those cards would dissapear so that they could only choose the ones that were not matched yet. If they picked cards that did not match they would be turned back around to the red side. 
+- In order to create this application, I first had to learn some Swift language. Once I got some understanding of it I was able to start on my project and with the help of videos on Youtube and Google I was able to put a matching game together. 
+![Alt text](../images/matchImages.png "Swift game screenshot")
 
 ## Technologies
-- List all technologies and versions here
-- Include dependencies and versions
-- Note any deployment tools as well
+- Swift - Version 16.3
+- Wrote on Xcode
 
 ## Competencies
 ### JF XX.XX
